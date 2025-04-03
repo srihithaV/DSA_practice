@@ -4,7 +4,7 @@ class Solution {
         long pow=n;
         if(pow<0)
         {
-            pow=(long)n*(-1);
+            pow=pow*(-1);
             x=1/x;
         }
 
