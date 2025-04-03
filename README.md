@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/srihithaV/DSA_practice/tree/master/0258-add-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/srihithaV/DSA_practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -45,4 +46,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/srihithaV/DSA_practice/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/srihithaV/DSA_practice/tree/master/0780-max-chunks-to-make-sorted) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/srihithaV/DSA_practice/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/srihithaV/DSA_practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
