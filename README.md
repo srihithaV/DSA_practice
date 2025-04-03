@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/srihithaV/DSA_practice/tree/master/0007-reverse-integer) |
+| [0172-factorial-trailing-zeroes](https://github.com/srihithaV/DSA_practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/srihithaV/DSA_practice/tree/master/0258-add-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/srihithaV/DSA_practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
