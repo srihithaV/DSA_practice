@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/srihithaV/DSA_practice/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/srihithaV/DSA_practice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/srihithaV/DSA_practice/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/srihithaV/DSA_practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/srihithaV/DSA_practice/tree/master/0258-add-digits) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/srihithaV/DSA_practice/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/srihithaV/DSA_practice/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/srihithaV/DSA_practice/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
