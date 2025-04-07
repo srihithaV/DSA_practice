@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/srihithaV/DSA_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/srihithaV/DSA_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/srihithaV/DSA_practice/tree/master/0645-set-mismatch) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/srihithaV/DSA_practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3227-find-missing-and-repeated-values](https://github.com/srihithaV/DSA_practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -78,4 +79,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/srihithaV/DSA_practice/tree/master/0058-length-of-last-word) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/srihithaV/DSA_practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/srihithaV/DSA_practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
