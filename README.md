@@ -86,10 +86,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/srihithaV/DSA_practice/tree/master/0058-length-of-last-word) |
+| [0541-reverse-string-ii](https://github.com/srihithaV/DSA_practice/tree/master/0541-reverse-string-ii) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/srihithaV/DSA_practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/srihithaV/DSA_practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/srihithaV/DSA_practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Two Pointers
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/srihithaV/DSA_practice/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
