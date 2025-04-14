@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/srihithaV/DSA_practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/srihithaV/DSA_practice/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/srihithaV/DSA_practice/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/srihithaV/DSA_practice/tree/master/0541-reverse-string-ii) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/srihithaV/DSA_practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/srihithaV/DSA_practice/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/srihithaV/DSA_practice/tree/master/0541-reverse-string-ii) |
 ## Trie
 |  |
