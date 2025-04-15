@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/srihithaV/DSA_practice/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/srihithaV/DSA_practice/tree/master/0541-reverse-string-ii) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/srihithaV/DSA_practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2173-number-of-valid-words-in-a-sentence](https://github.com/srihithaV/DSA_practice/tree/master/2173-number-of-valid-words-in-a-sentence) |
 ## Counting
 |  |
 | ------- |
