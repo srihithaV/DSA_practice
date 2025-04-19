@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/srihithaV/DSA_practice/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/srihithaV/DSA_practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/srihithaV/DSA_practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/srihithaV/DSA_practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/srihithaV/DSA_practice/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/srihithaV/DSA_practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/srihithaV/DSA_practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/srihithaV/DSA_practice/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/srihithaV/DSA_practice/tree/master/0541-reverse-string-ii) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/srihithaV/DSA_practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/srihithaV/DSA_practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/srihithaV/DSA_practice/tree/master/2173-number-of-valid-words-in-a-sentence) |
 ## Counting
