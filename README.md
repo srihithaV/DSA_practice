@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/srihithaV/DSA_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/srihithaV/DSA_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/srihithaV/DSA_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/srihithaV/DSA_practice/tree/master/0645-set-mismatch) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/srihithaV/DSA_practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/srihithaV/DSA_practice/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/srihithaV/DSA_practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/srihithaV/DSA_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/srihithaV/DSA_practice/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/srihithaV/DSA_practice/tree/master/0541-reverse-string-ii) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/srihithaV/DSA_practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/srihithaV/DSA_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/srihithaV/DSA_practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/srihithaV/DSA_practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Two Pointers
@@ -111,4 +114,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/srihithaV/DSA_practice/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/srihithaV/DSA_practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
