@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/srihithaV/DSA_practice/tree/master/0137-single-number-ii) |
+| [0219-contains-duplicate-ii](https://github.com/srihithaV/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/srihithaV/DSA_practice/tree/master/0260-single-number-iii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/srihithaV/DSA_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/srihithaV/DSA_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/srihithaV/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/srihithaV/DSA_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/srihithaV/DSA_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/srihithaV/DSA_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -118,4 +120,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/srihithaV/DSA_practice/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/srihithaV/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
