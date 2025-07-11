@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/srihithaV/DSA_practice/tree/master/0001-two-sum) |
 | [0137-single-number-ii](https://github.com/srihithaV/DSA_practice/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/srihithaV/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/srihithaV/DSA_practice/tree/master/0260-single-number-iii) |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/srihithaV/DSA_practice/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/srihithaV/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/srihithaV/DSA_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/srihithaV/DSA_practice/tree/master/0442-find-all-duplicates-in-an-array) |
