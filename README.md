@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/srihithaV/DSA_practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/srihithaV/DSA_practice/tree/master/0049-group-anagrams) |
 | [0137-single-number-ii](https://github.com/srihithaV/DSA_practice/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srihithaV/DSA_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/srihithaV/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/srihithaV/DSA_practice/tree/master/0260-single-number-iii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/srihithaV/DSA_practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/srihithaV/DSA_practice/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srihithaV/DSA_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/srihithaV/DSA_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/srihithaV/DSA_practice/tree/master/0541-reverse-string-ii) |
 ## Trie
@@ -130,4 +132,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/srihithaV/DSA_practice/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srihithaV/DSA_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
