@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/srihithaV/DSA_practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/srihithaV/DSA_practice/tree/master/0049-group-anagrams) |
+| [0120-triangle](https://github.com/srihithaV/DSA_practice/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/srihithaV/DSA_practice/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srihithaV/DSA_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/srihithaV/DSA_practice/tree/master/0219-contains-duplicate-ii) |
@@ -138,4 +139,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srihithaV/DSA_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/srihithaV/DSA_practice/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
