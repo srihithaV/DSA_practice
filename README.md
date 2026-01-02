@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/srihithaV/DSA_practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/srihithaV/DSA_practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/srihithaV/DSA_practice/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [2895-minimum-processing-time](https://github.com/srihithaV/DSA_practice/tree/master/2895-minimum-processing-time) |
 | [3227-find-missing-and-repeated-values](https://github.com/srihithaV/DSA_practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/srihithaV/DSA_practice/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/srihithaV/DSA_practice/tree/master/0780-max-chunks-to-make-sorted) |
+| [2895-minimum-processing-time](https://github.com/srihithaV/DSA_practice/tree/master/2895-minimum-processing-time) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/srihithaV/DSA_practice/tree/master/0645-set-mismatch) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/srihithaV/DSA_practice/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/srihithaV/DSA_practice/tree/master/0780-max-chunks-to-make-sorted) |
+| [2895-minimum-processing-time](https://github.com/srihithaV/DSA_practice/tree/master/2895-minimum-processing-time) |
 ## Monotonic Stack
 |  |
 | ------- |
