@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/srihithaV/DSA_practice/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/srihithaV/DSA_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/srihithaV/DSA_practice/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/srihithaV/DSA_practice/tree/master/0780-max-chunks-to-make-sorted) |
 ## Greedy
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/srihithaV/DSA_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/srihithaV/DSA_practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
@@ -147,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0120-triangle](https://github.com/srihithaV/DSA_practice/tree/master/0120-triangle) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/srihithaV/DSA_practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
