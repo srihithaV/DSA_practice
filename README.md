@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/srihithaV/DSA_practice/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/srihithaV/DSA_practice/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srihithaV/DSA_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/srihithaV/DSA_practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/srihithaV/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/srihithaV/DSA_practice/tree/master/0260-single-number-iii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/srihithaV/DSA_practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/srihithaV/DSA_practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/srihithaV/DSA_practice/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/srihithaV/DSA_practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/srihithaV/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/srihithaV/DSA_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/srihithaV/DSA_practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/srihithaV/DSA_practice/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/srihithaV/DSA_practice/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/srihithaV/DSA_practice/tree/master/0645-set-mismatch) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/srihithaV/DSA_practice/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/srihithaV/DSA_practice/tree/master/0780-max-chunks-to-make-sorted) |
@@ -118,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/srihithaV/DSA_practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/srihithaV/DSA_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/srihithaV/DSA_practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/srihithaV/DSA_practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -153,4 +157,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/srihithaV/DSA_practice/tree/master/0232-implement-queue-using-stacks) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/srihithaV/DSA_practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
